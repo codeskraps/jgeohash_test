@@ -68,7 +68,7 @@ dependencies {
     implementation 'com.prolificinteractive:material-calendarview:1.4.3'
     implementation 'com.loopeer.library:itemtouchhelperextension:1.0.4'
     implementation 'org.msgpack:msgpack-core:0.8.16'
-    implementation 'de.alpharogroup:jgeohash-core:2.5' // Issue compiling with 2.5
+    implementation 'de.alpharogroup:jgeohash-core:2.5.2' // Issue compiling with 2.5 solved with version 2.5.2
     implementation 'com.github.castorflex.smoothprogressbar:library:1.1.0'
     implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.16'
     implementation 'org.la4j:la4j:0.6.0'
